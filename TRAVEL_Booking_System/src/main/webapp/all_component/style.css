@@ -1,0 +1,21 @@
+
+body{
+	overflow-x: hidden;
+}
+
+
+
+
+
+.navbar .nav-item:hover .nav-link {
+	background: white;
+	color: black;
+	border-radius: 10px;
+	
+}
+.flex{
+	
+	justify-content:space-around;
+	
+}
+
